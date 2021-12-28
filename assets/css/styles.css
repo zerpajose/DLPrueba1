@@ -42,3 +42,23 @@ hr {
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
 }
+
+.titulo-tarjeta {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+}
+
+.texto-tarjeta {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+.my-card {
+  border-color: #17A3B8;
+}
+
+.card-body {
+  background-color: #17A3B8;
+}
