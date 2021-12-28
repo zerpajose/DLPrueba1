@@ -62,3 +62,35 @@ hr {
 .card-body {
   background-color: #17A3B8;
 }
+
+.form1 {
+  background-color: #17A3B8;
+}
+
+.boton-formulario {
+  color: white;
+  border-color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+footer {
+  background-color: #17A3B8;
+}
+
+.marca-footer {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+}
+
+/* centrar entiqueta de las redes sociales en pantallas pequeñas */
+@media only screen and (max-width: 767px) {
+  .rrss {
+    margin: auto;
+    display: block;
+    position: absolute;
+    right: 17%;
+    margin-bottom: 2%;
+  }
+}
